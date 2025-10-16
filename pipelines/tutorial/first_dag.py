@@ -16,7 +16,7 @@ with DAG(
     default_args={
         "owner": "user",
         "depends_on_past": False,
-        "email": "lgb0930@lgcns.com",
+        "email": "jaeyoon.han@lgcns.com",
         "email_on_failure": False,
         "email_on_retry": False,
         "retries": 1,
